@@ -76,18 +76,17 @@ Habilidades Socioemocionais: Comunicação assertiva, trabalho em equipe, proati
 
 
 ---
- 
+
 ### 📂 Portfólio de Projetos
  
-#### 🗃️ Modelagem de Banco de Dados
+ #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
- 
-#### 🤖 Inteligência Artificial
+| **Engenharia reversa + editor de texto** | Editor online que permite escrever e formatar textos em Markdown com pré-visualização em tempo real. | [Ver Projeto](https://github.com/jfpiresoficial/portfolio-joao-felipe-de-sousa-pires/blob/main/projeto-er-editor.md)) 
+
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Engenharia reversa + editor de texto ** | Editor online que permite escrever e formatar textos em Markdown com pré-visualização em tempo real. | [Ver Projeto](https://github.com/jfpiresoficial/portfolio-joao-felipe-de-sousa-pires/blob/main/projeto-er-editor.md)) |
+| **Engenharia reversa + editor de texto** | Editor online que permite escrever e formatar textos em Markdown com pré-visualização em tempo real. | [Ver Projeto](https://github.com/jfpiresoficial/portfolio-joao-felipe-de-sousa-pires/blob/main/projeto-er-editor.md)) |
  
 ---
  
