@@ -79,7 +79,7 @@ Habilidades Socioemocionais: Comunicação assertiva, trabalho em equipe, proati
 
 ### 📂 Portfólio de Projetos
  
- #### 🤖 Inteligência Artificial
+ #### 📊 Banco de dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Engenharia reversa + editor de texto** | Editor online que permite escrever e formatar textos em Markdown com pré-visualização em tempo real. | [Ver Projeto](./projeto-er-editor.md/) | 
