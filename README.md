@@ -84,7 +84,7 @@ Habilidades Socioemocionais: Comunicação assertiva, trabalho em equipe, proati
 | :--- | :--- | :---: |
 | **Engenharia reversa + editor de texto** | Editor online que permite escrever e formatar textos em Markdown com pré-visualização em tempo real. | [Ver Projeto](./projeto-er-editor.md/) | 
 
-###🤖 Inteligência Artificial
+####🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Fé Catolica** | Site católico desenvolvido com auxílio de Inteligência Artificial para compartilhar as ricas histórias, tradições e ensinamentos do catolicismo de forma acessível e moderna. | [Ver Projeto](https://jfpiresoficial.github.io/portfolio-joao-felipe-de-sousa-pires/) |
