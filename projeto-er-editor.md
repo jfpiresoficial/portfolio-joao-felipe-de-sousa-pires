@@ -23,15 +23,4 @@ O objetivo principal é oferecer uma interface fluida onde o usuário pode escre
 
 ---
 
-## 📊 Exemplos de Uso
-
-### 1. Fluxogramas (Flowcharts)
-Ideal para mapear processos e lógicas de decisão:
-```mermaid
-graph TD
-    A[Início] --> B{Funciona?}
-    B -- Sim --> C[Excelente!]
-    B -- Não --> D[Revisar Código]
-    D --> B
-
-    [Voltar ao início](https://github.com/joao-felipe-de-sousa-pires)
+   
