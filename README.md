@@ -86,7 +86,7 @@ Habilidades Socioemocionais: Comunicação assertiva, trabalho em equipe, proati
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Engenharia reversa + editor de texto** | Editor online que permite escrever e formatar textos em Markdown com pré-visualização em tempo real. | [Ver Projeto](https://github.com/jfpiresoficial/portfolio-joao-felipe-de-sousa-pires/blob/main/projeto-er-editor.md)) |
+| **Engenharia reversa + editor de texto** | Editor online que permite escrever e formatar textos em Markdown com pré-visualização em tempo real. | [Ver Projeto]([https://github.com/jfpiresoficial/portfolio-joao-felipe-de-sousa-pires/blob/main/projeto-er-editor.md](https://claude.ai/public/artifacts/a6276db0-53ab-4905-a620-cf92e8dd64bb))) |
  
 ---
  
