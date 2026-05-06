@@ -90,7 +90,7 @@ Habilidades Socioemocionais: Comunicação assertiva, trabalho em equipe, proati
 #### 🛠 Lingaugens
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Rap Brasileiro** | O site foi criado para apresentar a origem de alguns dos maiores raps brasileiros | [Ver Projeto](https://jfpiresoficial.github.io/rap/) |
+| **Rap Brasileiro** | Um site dedicado à história dos maiores raps brasileiros e seu impacto na cultura | [Ver Projeto](https://jfpiresoficial.github.io/rap/) |
 
  
 
