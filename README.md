@@ -98,6 +98,7 @@ Habilidades Socioemocionais: Comunicação assertiva, trabalho em equipe, proati
  
 ### 🏗 Estrutura do Repositório
 Abaixo, a organização deste repositório para facilitar a navegação:
- 
+
 - `root/`: Arquivo de apresentação principal.
-- `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+- `/projeto_rap_nacional/`: Site dedicado à história do Rap Brasileiro.
+- `/projeto-er-editor.md`: Projeto de engenharia reversa com editor de texto em Markdown.
