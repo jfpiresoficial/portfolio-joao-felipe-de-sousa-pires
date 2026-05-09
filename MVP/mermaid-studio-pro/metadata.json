@@ -1,0 +1,8 @@
+{
+  "name": "Mermaid Studio Pro",
+  "description": "Premium Markdown & Mermaid Diagram Editor with AI-powered assistance, cloud sync, and professional export tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

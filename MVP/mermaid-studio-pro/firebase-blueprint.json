@@ -1,0 +1,37 @@
+{
+  "entities": {
+    "File": {
+      "title": "File",
+      "description": "A markdown file with mermaid diagrams",
+      "type": "object",
+      "properties": {
+        "name": { "type": "string", "description": "Display name of the file" },
+        "content": { "type": "string", "description": "Markdown content" },
+        "userId": { "type": "string", "description": "Owner UID" },
+        "updatedAt": { "type": "string", "format": "date-time", "description": "Last update server timestamp" }
+      },
+      "required": ["name", "content", "userId", "updatedAt"]
+    },
+    "User": {
+      "title": "User",
+      "description": "User profile data",
+      "type": "object",
+      "properties": {
+        "displayName": { "type": "string" },
+        "email": { "type": "string" },
+        "updatedAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["displayName", "email", "updatedAt"]
+    }
+  },
+  "firestore": {
+    "/files/{fileId}": {
+      "schema": { "$ref": "File" },
+      "description": "User workspace files"
+    },
+    "/users/{userId}": {
+      "schema": { "$ref": "User" },
+      "description": "Private user profiles"
+    }
+  }
+}
