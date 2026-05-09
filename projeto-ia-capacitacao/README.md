@@ -75,4 +75,4 @@ Durante o desenvolvimento deste projeto, foram adquiridos conhecimentos importan
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+  git clone https://github.com/jfpiresoficial/portfolio-joao-felipe-de-sousa-pires.git
