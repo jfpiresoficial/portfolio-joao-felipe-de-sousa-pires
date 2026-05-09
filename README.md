@@ -89,6 +89,7 @@ Habilidades Socioemocionais: Comunicação assertiva, trabalho em equipe, proati
 | **Classificação Visual** |Projeto focado em classificação de imagens com Inteligência Artificial, utilizando reconhecimento de padrões visuais para identificar e categorizar elementos automaticamente. | [Ver Projeto](./classificacao-visual/) | 
 | **Batlha de modelos** |Projeto criado para comparar o desempenho de diferentes modelos de Inteligência Artificial, avaliando precisão, eficiência e qualidade das respostas em múltiplos testes | [Ver Projeto](./batalha-modelo/)
 | **Engenharia Reversa** |Projeto voltado à análise e reconstrução de processos utilizando Inteligência Artificial, explorando padrões, estruturas e funcionamento de sistemas e conteúdos digitais. | [Ver Projeto](./engenharia-rev/)
+| **Engenharia Reversa + MVP** |Projeto voltado a melhorar a duplicagem que fizemos na Engenharia reversa. | [Ver Projeto](./MVP/)
 
 
 #### 🛠 Lingaugens
