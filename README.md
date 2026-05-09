@@ -86,7 +86,7 @@ Habilidades Socioemocionais: Comunicação assertiva, trabalho em equipe, proati
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Engenharia reversa + editor de texto** | Editor online que permite escrever e formatar textos em Markdown com pré-visualização em tempo real. | [Ver Projeto](./projeto-er-editor.md/) | 
-| **Corrida de Prompt** |Projeto desenvolvido para explorar, testar e analisar os diferentes níveis de capacidade e desempenho da Inteligência Artificial em aplicações práticas.. | [Ver Projeto](./projeto-ia-capacitacao.md/) | 
+| **Corrida de Prompt** |Projeto desenvolvido para explorar, testar e analisar os diferentes níveis de capacidade e desempenho da Inteligência Artificial em aplicações práticas.. | [Ver Projeto](./projeto-ia-capacitacao/) | 
 
 
 #### 🛠 Lingaugens
