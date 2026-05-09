@@ -102,5 +102,7 @@ Sim. Alguns modelos consumiram muito mais tokens para alcançar resultados semel
 **João Felipe De Sousa Pires**
 
 ---
+## 🔧 Como Visualizar
 
-[Voltar ao início](https://github.com/seu-usuario/seu-usuario)
+1. Pagina Principal:
+  https://github.com/jfpiresoficial/portfolio-joao-felipe-de-sousa-pires.git
