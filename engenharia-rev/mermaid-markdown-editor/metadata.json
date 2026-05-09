@@ -1,0 +1,5 @@
+{
+  "name": "Mermaid Markdown Editor",
+  "description": "A powerful Markdown editor with integrated Mermaid diagram rendering and file management.",
+  "requestFramePermissions": []
+}
