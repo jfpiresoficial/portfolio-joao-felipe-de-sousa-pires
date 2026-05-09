@@ -73,6 +73,5 @@ Durante o desenvolvimento deste projeto, foram adquiridos conhecimentos importan
 
 ## 🔧 Como Visualizar
 
-1. Clone este repositório:
-   ```bash
-  git clone https://github.com/jfpiresoficial/portfolio-joao-felipe-de-sousa-pires.git
+1. Pagina Principal:
+  https://github.com/jfpiresoficial/portfolio-joao-felipe-de-sousa-pires.git
