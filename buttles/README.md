@@ -67,4 +67,7 @@ Criação ágil de soluções digitais para testes, validações e desenvolvimen
 
 ---
 
-[Voltar ao início](https://github.com/seu-usuario/seu-usuario)
+## 🔧 Como Visualizar
+
+1. Pagina Principal:
+  https://github.com/jfpiresoficial/portfolio-joao-felipe-de-sousa-pires.git
