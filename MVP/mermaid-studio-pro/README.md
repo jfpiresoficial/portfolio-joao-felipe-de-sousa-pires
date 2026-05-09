@@ -59,7 +59,7 @@ Fortalecer conhecimentos relacionados ao uso de Inteligência Artificial em ambi
 ---
 
 
-## 🔧 Como Visualizar
+## 🔧 Pagina principal
 
 1. Pagina Principal:
   https://github.com/jfpiresoficial/portfolio-joao-felipe-de-sousa-pires.git
