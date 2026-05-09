@@ -86,7 +86,7 @@ Habilidades Socioemocionais: Comunicação assertiva, trabalho em equipe, proati
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Corrida de Prompt** |Projeto desenvolvido para explorar, testar e analisar os diferentes níveis de capacidade e desempenho da Inteligência Artificial em aplicações práticas.. | [Ver Projeto](./projeto-ia-capacitacao/) | 
-| **Classificação Visual** |Projeto desenvolvido para realizar classificação visual utilizando Inteligência Artificial, identificando e categorizando imagens com base em padrões e características visuais | [Ver Projeto](./classificação-visual/) | 
+| **Classificação Visual** |Projeto desenvolvido para realizar classificação visual utilizando Inteligência Artificial, identificando e categorizando imagens com base em padrões e características visuais | [Ver Projeto](./classificacao-visual/) | 
 
 
 #### 🛠 Lingaugens
