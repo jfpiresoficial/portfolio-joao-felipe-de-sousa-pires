@@ -92,11 +92,6 @@ Habilidades Socioemocionais: Comunicação assertiva, trabalho em equipe, proati
 | **Engenharia Reversa + MVP** |Projeto voltado a melhorar a duplicagem que fizemos na Engenharia reversa. | [Ver Projeto](./MVP/)
 
 
-#### 🛠 Lingaugens
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Rap Brasileiro** | Um site dedicado à história dos maiores raps brasileiros e seu impacto na cultura | [Ver Projeto](https://jfpiresoficial.github.io/rap/) |
-| **Fé Catolica** | Site católico desenvolvido com auxílio de Inteligência Artificial para compartilhar as ricas histórias, tradições e ensinamentos do catolicismo de forma acessível e moderna. | [Ver Projeto](https://jfpiresoficial.github.io/portfolio-joao-felipe-de-sousa-pires/) |
 
  
 
