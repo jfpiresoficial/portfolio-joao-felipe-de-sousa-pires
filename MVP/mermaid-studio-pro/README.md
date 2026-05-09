@@ -58,7 +58,11 @@ Fortalecer conhecimentos relacionados ao uso de Inteligência Artificial em ambi
 
 ---
 
-[Voltar ao início](https://github.com/seu-usuario/seu-usuario)
+
+## 🔧 Como Visualizar
+
+1. Pagina Principal:
+  https://github.com/jfpiresoficial/portfolio-joao-felipe-de-sousa-pires.git
 
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
