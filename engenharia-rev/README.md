@@ -58,4 +58,7 @@ A IA deixa de ser uma ferramenta de apoio quando é utilizada apenas para reprod
 
 ---
 
-[Voltar ao início](https://github.com/seu-usuario/seu-usuario)
+## 🔧 Como Visualizar
+
+1. Pagina Principal:
+  https://github.com/jfpiresoficial/portfolio-joao-felipe-de-sousa-pires.git
