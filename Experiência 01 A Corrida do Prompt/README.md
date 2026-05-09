@@ -27,7 +27,6 @@ O desafio consistiu em estruturar um prompt rico em detalhes artísticos, combin
 
 ### 🖼️ Resultado Final
 
-http://googleusercontent.com/image_generation_content/0
 
 *Figura 1: Resultado da geração de imagem utilizando IA generativa.*
 
