@@ -85,10 +85,10 @@ Habilidades Socioemocionais: Comunicação assertiva, trabalho em equipe, proati
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Corrida de Prompt** |Projeto desenvolvido para explorar, testar e analisar os diferentes níveis de capacidade e desempenho da Inteligência Artificial em aplicações práticas.. | [Ver Projeto](./projeto-ia-capacitacao/) | 
-| **Classificação Visual** |Projeto desenvolvido para realizar classificação visual utilizando Inteligência Artificial, identificando e categorizando imagens com base em padrões e características visuais | [Ver Projeto](./classificacao-visual/) | 
-| **Batlha de modelos** |Projeto desenvolvido para realizar classificação visual utilizando Inteligência Artificial, identificando e categorizando imagens com base em padrões e características visuais | [Ver Projeto](./batalha-modelo/)
-| **Engenharia Reversa** |Projeto desenvolvido para realizar classificação visual utilizando Inteligência Artificial, identificando e categorizando imagens com base em padrões e características visuais | [Ver Projeto](./engenharia-rev/)
+| **Corrida de Prompt** |Projeto desenvolvido para testar e comparar a capacidade de diferentes modelos de Inteligência Artificial por meio da criação e execução de prompts em cenários práticos. | [Ver Projeto](./projeto-ia-capacitacao/) | 
+| **Classificação Visual** |Projeto focado em classificação de imagens com Inteligência Artificial, utilizando reconhecimento de padrões visuais para identificar e categorizar elementos automaticamente. | [Ver Projeto](./classificacao-visual/) | 
+| **Batlha de modelos** |Projeto criado para comparar o desempenho de diferentes modelos de Inteligência Artificial, avaliando precisão, eficiência e qualidade das respostas em múltiplos testes | [Ver Projeto](./batalha-modelo/)
+| **Engenharia Reversa** |Projeto voltado à análise e reconstrução de processos utilizando Inteligência Artificial, explorando padrões, estruturas e funcionamento de sistemas e conteúdos digitais. | [Ver Projeto](./engenharia-rev/)
 
 
 #### 🛠 Lingaugens
