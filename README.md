@@ -86,7 +86,7 @@ Habilidades Socioemocionais: Comunicação assertiva, trabalho em equipe, proati
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Engenharia reversa + editor de texto** | Editor online que permite escrever e formatar textos em Markdown com pré-visualização em tempo real. | [Ver Projeto](./projeto-er-editor.md/) | 
-| **Corrida de Prompt** |Projeto desenvolvido para explorar, testar e analisar os diferentes níveis de capacidade e desempenho da Inteligência Artificial em aplicações práticas.. | [Ver Projeto](./projeto-er-editor.md/) | 
+| **Corrida de Prompt** |Projeto desenvolvido para explorar, testar e analisar os diferentes níveis de capacidade e desempenho da Inteligência Artificial em aplicações práticas.. | [Ver Projeto]([./projeto-er-editor.md/](https://github.com/jfpiresoficial/portfolio-joao-felipe-de-sousa-pires/tree/c2eee19a4befd372e7d2f59c66ae6e0b8423b5fd/Experi%C3%AAncia%2001%20A%20Corrida%20do%20Prompt)) | 
 
 
 #### 🛠 Lingaugens
