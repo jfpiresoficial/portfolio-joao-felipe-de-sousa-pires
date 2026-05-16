@@ -85,6 +85,7 @@ Habilidades Socioemocionais: Comunicação assertiva, trabalho em equipe, proati
 | **Batalha de modelos** |Projeto criado para comparar o desempenho de diferentes modelos de Inteligência Artificial, avaliando precisão, eficiência e qualidade das respostas em múltiplos testes | [Ver Projeto](./batalha-modelo/)
 | **Engenharia Reversa** |Projeto voltado à análise e reconstrução de processos utilizando Inteligência Artificial, explorando padrões, estruturas e funcionamento de sistemas e conteúdos digitais. | [Ver Projeto](./engenharia-rev/)
 | **Engenharia Reversa + MVP** |Projeto voltado a melhorar a duplicagem que fizemos na Engenharia reversa. | [Ver Projeto](./MVP/)
+| **buttle** |O FinançasFáceis é uma aplicação web de gestão financeira desenvolvida no Bubble.io que utiliza recursos de Inteligência Artificial e boas práticas de engenharia de software para controlar receitas, despesas e segurança de dados dos usuários.. | [Ver Projeto](./buttles/)
 
 
 
