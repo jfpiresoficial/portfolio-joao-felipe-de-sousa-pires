@@ -6,7 +6,7 @@
 ### 📫 Contato & Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-felipe...)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jfpires.oficial@gmail.com)
-[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/jfpiresoficial/portfolio-joao-felipe-de-sousa-pires/blob/main/Curriculo_Joao_Felipe_TI_Final%20(1).pdf)
+[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](./Curriculo/Curriculo_Joao_Felipe.pdf)
  
 ---
  
@@ -82,7 +82,7 @@ Habilidades Socioemocionais: Comunicação assertiva, trabalho em equipe, proati
 | :--- | :--- | :---: |
 | **Corrida de Prompt** |Projeto desenvolvido para testar e comparar a capacidade de diferentes modelos de Inteligência Artificial por meio da criação e execução de prompts em cenários práticos. | [Ver Projeto](./projeto-ia-capacitacao/) | 
 | **Classificação Visual** |Projeto focado em classificação de imagens com Inteligência Artificial, utilizando reconhecimento de padrões visuais para identificar e categorizar elementos automaticamente. | [Ver Projeto](./classificacao-visual/) | 
-| **Batlha de modelos** |Projeto criado para comparar o desempenho de diferentes modelos de Inteligência Artificial, avaliando precisão, eficiência e qualidade das respostas em múltiplos testes | [Ver Projeto](./batalha-modelo/)
+| **Batalha de modelos** |Projeto criado para comparar o desempenho de diferentes modelos de Inteligência Artificial, avaliando precisão, eficiência e qualidade das respostas em múltiplos testes | [Ver Projeto](./batalha-modelo/)
 | **Engenharia Reversa** |Projeto voltado à análise e reconstrução de processos utilizando Inteligência Artificial, explorando padrões, estruturas e funcionamento de sistemas e conteúdos digitais. | [Ver Projeto](./engenharia-rev/)
 | **Engenharia Reversa + MVP** |Projeto voltado a melhorar a duplicagem que fizemos na Engenharia reversa. | [Ver Projeto](./MVP/)
 
