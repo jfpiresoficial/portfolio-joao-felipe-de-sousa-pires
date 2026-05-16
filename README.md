@@ -96,5 +96,9 @@ Habilidades Socioemocionais: Comunicação assertiva, trabalho em equipe, proati
 Abaixo, a organização deste repositório para facilitar a navegação:
 
 - `root/`: Arquivo de apresentação principal.
-- `/projeto_rap_nacional/`: Site dedicado à história do Rap Brasileiro.
-- `/projeto-er-editor.md`: Projeto de engenharia reversa com editor de texto em Markdown.
+- `/projeto-ia-capacitacao/` → Projeto "Corrida de Prompt".
+- `/classificacao-visual/` → Projeto de Classificação Visual com Inteligência Artificial.
+- `/batalha-modelo/` → Projeto "Batalha de Modelos".
+- `/engenharia-rev/` → Projeto de Engenharia Reversa.
+- `/MVP/` → Projeto Engenharia Reversa + MVP.
+- `/projeto-er-editor.md` → Projeto de engenharia reversa com editor Markdown.
